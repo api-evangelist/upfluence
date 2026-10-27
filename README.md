@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Upfluence is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://upfluence.com/
+Upfluence provides an influencer marketing platform that connects brands with creators. Their solution includes a robust API and MCP (Marketing Collaboration Platform) enabling programmatic access to creator data, campaign management, analytics, and payment processing. Powered by Jaice AI, Upfluence offers tools for discovery, vetting, outreach, and performance measurement, supporting e‑commerce, agencies, affiliate programs, and user‑generated content initiatives.
+
+**Areas:** Company · InfluencerMarketing · API · MCP · SaaS · CreatorEconomy
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://upfluence.com/)
+- [Documentation](https://docs.upfluence.co)
+- [Getting started](https://www.upfluence.com/get-started/)
+- [API reference](https://www.upfluence.com/influencer-marketing-api/)
+- [Pricing](https://www.upfluence.com/pricing)
+- [Sign up](https://creators.upfluence.com/sign-up)
+- [Support](https://help.upfluence.co/)
+- [Blog](https://www.upfluence.com/blog)
+- [Privacy policy](https://www.upfluence.com/privacy-policy)
+- [GitHub](https://github.com/upfluence)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/upfluence/](https://apis.io/providers/upfluence/).
